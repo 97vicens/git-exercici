@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 canvis fets per master
+=======
+vaig a fer un canvi en branch1
+>>>>>>> branch1
